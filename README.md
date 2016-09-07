@@ -1,0 +1,2 @@
+jsf-custom-component
+
